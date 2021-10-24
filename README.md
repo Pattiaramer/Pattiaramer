@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pattiaramer
 - 👀 I’m interested in ... photography/nature
 - 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... insta @patti_aramer04
 
 <!---
