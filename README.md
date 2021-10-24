@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Pattiaramer
+👋 Hi, I’m @Pattiaramer
+Thanks for stopping by! I am a self-taught Latina coder ;) (She/Her)
+
 - 👀 I’m interested in ... photography/nature
 - 🌱 I’m currently learning ... JavaScript
 - 📫 How to reach me ... insta @patti_aramer04
